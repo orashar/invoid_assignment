@@ -1,0 +1,3 @@
+include ':invoid_lib_test'
+include ':app'
+rootProject.name = "Invoid_test"
